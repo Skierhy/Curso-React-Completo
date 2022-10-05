@@ -1,3 +1,9 @@
 [submodule "Gif-Expert-App"]
 	path = Gif-Expert-App
 	url = https://github.com/Skierhy/Gif-Expert-App
+[submodule "HooksApp"]
+	path = HooksApp
+	url = https://github.com/Skierhy/HooksApp
+[submodule "my-custom-hooks"]
+	path = my-custom-hooks
+	url = https://github.com/Skierhy/my-custom-hooks
