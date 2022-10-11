@@ -7,3 +7,6 @@
 [submodule "my-custom-hooks"]
 	path = my-custom-hooks
 	url = https://github.com/Skierhy/my-custom-hooks
+[submodule "heroes-spa-app"]
+	path = heroes-spa-app
+	url = https://github.com/Skierhy/heroes-spa-app

@@ -13,3 +13,4 @@ Este repositorio contiene todas las aplicaciones con react del curso de react
 4. 04-Gif-Expert-App
 5. 05-HooksApp
 6. 06-my-custom-hooks
+7. 07-heroes-spa-App
