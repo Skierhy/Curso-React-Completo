@@ -14,3 +14,5 @@ Este repositorio contiene todas las aplicaciones con react del curso de react
 5. 05-HooksApp
 6. 06-my-custom-hooks
 7. 07-heroes-spa-App
+8. 08-journal-app
+9. 09-toolkit-redux
