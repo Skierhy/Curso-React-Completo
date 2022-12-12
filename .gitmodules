@@ -13,3 +13,6 @@
 [submodule "toolkit-redux"]
 	path = toolkit-redux
 	url = https://github.com/Skierhy/toolkit-redux
+[submodule "journal-app"]
+	path = journal-app
+	url = https://github.com/Skierhy/journal-app.git
