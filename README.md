@@ -16,3 +16,32 @@ Este repositorio contiene todas las aplicaciones con react del curso de react
 7. 07-heroes-spa-App
 8. 08-journal-app
 9. 09-toolkit-redux
+10. MERN-Calendar
+11. calendar-backend
+
+---
+
+## Notas
+
+Recuerden reconstruir los módulos de node
+
+`yarn install`
+
+Y para construir el build, recuerden:
+
+`yarn build`
+
+Para ejecutar la aplicación:
+
+`yarn dev`
+
+## Development pasos
+
+1. Renombrar el archivo .env.template por .env
+2. Hacer los cambios respectivos en las variables de entorno.
+
+`
+
+VITE_API_URL=<http://localhost:4000/api>
+
+`

@@ -16,3 +16,9 @@
 [submodule "journal-app"]
 	path = journal-app
 	url = https://github.com/Skierhy/journal-app.git
+[submodule "MERN-Calendar"]
+	path = MERN-Calendar
+	url = https://github.com/Skierhy/MERN-Calendar.git
+[submodule "calendar-backend"]
+	path = calendar-backend
+	url = https://github.com/Skierhy/calendar-backend.git
